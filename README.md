@@ -2,7 +2,7 @@
 ![Header Banner](https://raw.githubusercontent.com/devezzy/devezzy/refs/heads/main/banner.jpg)
 
 ## Hi, I'm Faizzal Hassan 👋  
-Owner of **Devezzy** | Full Stack Developer | Content Creator  
+Founder of **Devezzy** | Full Stack Developer | Content Creator  
 
 🚀 I’m a passionate **full stack developer** who loves building modern, responsive, and interactive web applications.  
 📹 I run **Devezzy**, where I share **frontend code snippets** and **UI design tips** on YouTube and Instagram to help developers create stunning web experiences.  
